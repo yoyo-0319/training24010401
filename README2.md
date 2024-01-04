@@ -48,7 +48,7 @@ description: 網頁魔法起手式 JavaScript
 瀏覽器支援 ES 版本參考
 ![](https://hackmd.io/_uploads/BkVPOIer2.png)
 
-#### JavaScript 小百科
+#### JavaScript 小百科123456789
 
 因為名稱與 Java 相近，常常會被混淆誤認與 Java 是同一種程式語言。
 
