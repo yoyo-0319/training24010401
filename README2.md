@@ -1,7 +1,7 @@
 ---
 title: 參考 - 網頁魔法起手式 JavaScript (被引用)
 tags: JavaScript,君邑資訊
-description: JavaScript
+description: 網頁魔法起手式 
 ---
 <style>
     .footnotes-list{
